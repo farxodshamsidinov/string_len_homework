@@ -6,4 +6,5 @@ def main(a):
     Returns:
         length of string
     """
+    leg(a)
     return
