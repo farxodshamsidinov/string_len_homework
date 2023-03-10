@@ -6,4 +6,14 @@ def main(a):
     Returns:
         True or False
     """
-    return
+    if a%2==0:
+        print(True)
+
+
+
+    else:print(False)
+
+
+
+          
+    return print(main(7))
