@@ -11,9 +11,10 @@ def main(a):
 
 
 
-    else:print(False)
+    else:
+        print(False)
 
 
 
           
-    return print(main(7))
+    return
