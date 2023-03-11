@@ -6,6 +6,6 @@ def main(s):
     Returns:
         string
     """
-    y=len(s)
-    a=y*"*"
-    return s
+    k=len(s)
+    n=k*"*"
+    return n
