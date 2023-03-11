@@ -8,4 +8,4 @@ def main(a):
     """
 
     return 
-print(leg(a))
+print(len(a))
