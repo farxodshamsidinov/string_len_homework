@@ -6,6 +6,5 @@ def main(a):
     Returns:
         length of string
     """
-
+    len(a)
     return 
-print(main(len(a)))
