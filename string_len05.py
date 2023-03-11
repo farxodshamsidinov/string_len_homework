@@ -10,5 +10,6 @@ def main(s1,s2):
     a = len(s1)
     b = len(s2)
 
-    return 
-print(main("hello world","salom dunyo"))
+    c = a + b
+
+    return c
