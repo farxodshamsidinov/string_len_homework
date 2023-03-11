@@ -11,4 +11,4 @@ def main(s1,s2):
     b = leg(s2)
 
     return 
-print(main("hello world,salom dunyo"))
+print(main("hello world","salom dunyo"))
