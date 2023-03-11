@@ -6,9 +6,10 @@ def main(a):
     Returns:
         True or False
     """
-    y = leg(a)
+    y = len(a)
     if y%2==0:
         print(True)
+        return True
 
 
 
@@ -18,4 +19,5 @@ def main(a):
 
 
           
-    return
+        return False
+print(main("hello World"))
