@@ -6,7 +6,8 @@ def main(a):
     Returns:
         True or False
     """
-    if a%2==0:
+    y = leg(a)
+    if y%2==0:
         print(True)
 
 
