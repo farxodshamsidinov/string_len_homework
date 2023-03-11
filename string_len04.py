@@ -8,4 +8,4 @@ def main(s):
     """
     y=len(s)
     a=y*"*"
-    return
+    return s
