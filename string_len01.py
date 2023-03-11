@@ -8,4 +8,4 @@ def main(a):
     """
 
     return 
-print(len(a))
+print(main(len(a)))
