@@ -7,4 +7,16 @@ def main(a,b):
     Returns:
         True or False
     """
-    return
+    x = len(a)
+    y = len(b)
+
+    if x==y:
+        print(True)
+        return True
+    
+    else:
+        print(False)
+
+    
+        return False
+   
