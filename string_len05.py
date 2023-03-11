@@ -7,8 +7,8 @@ def main(s1,s2):
     Returns:
         total length of strings
     """
-    a = leg(s1)
-    b = leg(s2)
+    a = len(s1)
+    b = len(s2)
 
     return 
 print(main("hello world","salom dunyo"))
