@@ -8,6 +8,8 @@ def main(s):
     Returns:
         str: answer
     """
+    
+    return print(str.center(10, ))
 
-    return
-print(str.center(10, ))
+
+
