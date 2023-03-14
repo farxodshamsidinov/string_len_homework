@@ -9,4 +9,9 @@ def main(num1, num2):
     Returns:
         str: answer
     """
-    return
+    num1 = "salom dunyo"
+
+    num2="hello world"
+
+    a = num1+num2
+    return a
