@@ -32,9 +32,7 @@ def main(s1,s2,s3):
     
     elif len(s3)%2==1:
         return f"[{s3}]" 
+ 
 
 
-
-
-
-    return
+    
